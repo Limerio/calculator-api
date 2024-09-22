@@ -1,5 +1,5 @@
 build:
-	go build .
+	go build -o calculator-api .
 
 test:
 	go test ./...
