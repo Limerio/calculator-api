@@ -36,3 +36,4 @@ The goal of this project is to create a web api which perform math calculation w
 - [x] Add `/ping` endpoint
 - [x] Add prometheus
 - [ ] Create tests
+- [ ] Github actions
